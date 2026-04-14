@@ -66,6 +66,15 @@ Fashion-MNIST-Reconstruction/
 
 ---
 
+## 🚀 Running the Notebook
+
+Recommended: open directly in **Google Colab** (GPU runtime required).
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimoneZanetti00/NOME-REPO/blob/main/Simone_Zanetti_fashionMnist.ipynb)
+
+> ⚠️ Make sure to set the runtime to **GPU** (Runtime → Change runtime type → T4 GPU),
+> otherwise CUDA device errors will occur when running the DBN section.
+
 ## 🛠️ Tools & Libraries
 
 - **Language:** Python (Google Colab)
